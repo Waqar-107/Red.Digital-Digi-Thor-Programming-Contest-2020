@@ -8,4 +8,4 @@
 
 <img src="https://raw.githubusercontent.com/Waqar-107/Red.Digital-Digi-Thor-Programming-Contest-2020/main/contest_rank.PNG" height="75px" width="1050px" alt=""/>
 
-### Solved A, B, C, D, E and F with 46 minutes. Couldn't solve the other two. Solved H later.
+### Solved A, B, C, D, E and F within 46 minutes. Couldn't solve the other two. Solved H after the contest.
