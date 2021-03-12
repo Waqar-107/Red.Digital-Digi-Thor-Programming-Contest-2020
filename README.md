@@ -9,3 +9,5 @@
 <img src="https://raw.githubusercontent.com/Waqar-107/Red.Digital-Digi-Thor-Programming-Contest-2020/main/contest_rank.PNG" height="75px" width="1050px" alt=""/>
 
 ### Solved A, B, C, D, E and F within 46 minutes. Couldn't solve the other two. Solved H after the contest.
+
+Status: got offer to join Red.Digital as a Software Developer
